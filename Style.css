@@ -101,7 +101,77 @@
     gap: 10px;
 }
 
+.text2{
+    text-align: center;
+    margin: 44px auto;
+}
+
+.text2 p{
+    color: #627382;
+}
 
 
+.detail-box{
+    margin: 0 auto;
+    width: 1360px;
+    max-width: 1360px;
+    display: flex;
+    gap: 24px;
+    text-align: center;
+}
+
+.detail-box p{
+    color: #627382;
+}
+.detail-card{
+    padding: 24px;
+    max-width: 322px;
+    box-shadow: 0 5px 50px 0;
+    height: 300px;
+    margin: auto;
+    padding-top: 150px;
+    }
+
+#solution{
+    display: flex;
+    gap: 60px;
+    background-color:white;
+    padding: 120px;
+}
+.solution-text{
+    padding-top: 102px;
+    width:  700px;
+}
+
+.solution-text h6{
+    color: #30b868;
+    font-size: 16px;
+}
+.solution-text p{
+    color: #627382;
+}
+.points{
+    text-align: left;
+    list-style: none;
+    padding-left: 0px;
+    padding-top: 40px;
+    font-size: 16px;
+}
+.points img{
+    vertical-align: bottom;
+}
+
+#access{
+    padding: 0 120px 120px 120px ;
+}
+
+.ready{
+    background-color: #f7f6f2;
+    text-align: center;
+    padding: 80px 40px ;
+}
+#access p{
+    color: #627382;
+}
 
 
