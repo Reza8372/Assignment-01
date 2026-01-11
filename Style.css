@@ -174,4 +174,25 @@
     color: #627382;
 }
 
+footer{
+    background-color: rgb(16, 11, 63);
+    
+    color: #f7f6f2;
+    padding: 120px 120px 30px 120px;
+}
+
+.top-foot{
+    display: flex;
+    padding-bottom: 80px;
+}
+.links{
+    display: flex;
+    list-style: none;
+    padding:0px;
+}
+
+.bott-foot{
+    text-align: center;
+    padding-bottom: 30px;
+}
 
